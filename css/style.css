@@ -1,0 +1,21 @@
+/* seletor por id */
+#titulo{
+	color: green;
+	text-align: center;
+}
+
+p#descricao{
+	color: blue;
+}
+
+.promocao{
+	text-align: center;
+	background-color: lightgreen;
+}
+
+.nova{
+	color:white
+}
+
+/* tipo < classe < id (em questão de especificidade) */
+
